@@ -9,7 +9,7 @@ The analysis evaluates batting performance across different phases of the game a
 Python
 Pandas
 NumPy
-Matplotlib
+Matplotlib 
 Seaborn
 Power BI
 
